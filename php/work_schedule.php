@@ -94,7 +94,7 @@ function numbersReachSum($target, $days, $maxHours)
 };
 
 
-findSchedules( 24,4,"08??840" ) . "<br />";
+print_r(findSchedules( 24,4,"08??840" ));
 
 
 
